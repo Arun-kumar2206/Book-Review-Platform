@@ -7,10 +7,9 @@
     "client": "cd book-review-client && npm run dev",
     "server": "cd book-review-server && npm run dev",
     "dev": "concurrently \"npm run server\" \"npm run client\""
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  },  "keywords": [],
+  "author": "Arun Kumar",
+  "license": "MIT",
   "devDependencies": {
     "concurrently": "^8.2.0"
   }
