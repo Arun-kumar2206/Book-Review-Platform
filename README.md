@@ -9,7 +9,6 @@ A full-stack web application for book reviews and discussions, built with React 
 - 👤 User authentication and profiles
 - 📝 Add and manage books
 - 🎨 Responsive modern UI
-- 🌙 Dark theme support
 
 ## Tech Stack
 
@@ -135,4 +134,4 @@ book-review-platform/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
